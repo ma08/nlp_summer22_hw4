@@ -3,6 +3,8 @@
 - Stop your instance when not in use. Maybe keep a reminder twice a day to stop it (to save credits when instance is not in use).
 # Redeem Educational Credits
 - Use [this link](https://cloud.google.com/billing/docs/how-to/edu-grants#redeem) to avail the credits using the coupon
+# Video Tutorial on Youtube
+- [End to end tutorial to create VM with GPU and access it through Jupyter](https://www.youtube.com/watch?v=Zj0DxBioBq8)
 # Create Project 
 - Use suitable name
 - Use billing account from above redeemed credits
