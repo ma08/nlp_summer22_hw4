@@ -42,4 +42,8 @@
 # Run Jupyter in background
 - `jupyter notebook >> jup_notebook.log 2>&1 & tail -f jup_notebook.log`
 - Access from browser `http://<external ip>:8888.. token from above method
+
+# Clone repository and open notebook
+- `git clone https://github.com/ma08/nlp_summer22_hw4.git`
+- Open jupyter from the link in previouse section and navigate to `nlp_summer22_hw4/Assignment4.ipynb` to get started with installing the dependencies which don't come with the Deep Learning VM image and ran a few sample methods related to the hw4.
   
