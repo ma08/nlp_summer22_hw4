@@ -1,3 +1,6 @@
+# Important things to keep in mind
+- Delete GPU from config before starting the instance if GPU isn't necessary for that particular session. This will save a lot of credits.
+- Stop your instance when not in use. Maybe keep a reminder twice a day to stop it (to save credits when instance is not in use).
 # Redeem Educational Credits
 - Use [this link](https://cloud.google.com/billing/docs/how-to/edu-grants#redeem) to avail the credits using the coupon
 # Create Project 
